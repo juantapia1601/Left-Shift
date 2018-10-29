@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Xilinx/multiplicador/LeftShift/diagrama_isim_beh.exe" -prj "C:/Xilinx/multiplicador/LeftShift/diagrama_beh.prj" "work.diagrama" 
